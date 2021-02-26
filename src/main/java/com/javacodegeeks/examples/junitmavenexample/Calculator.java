@@ -24,6 +24,7 @@ public class Calculator implements ICalculator {
 		}
 
 		return a / b;
+		
 	}
 
 	@Override
